@@ -9,8 +9,8 @@ $ git clone https://github.com/kucing-hitam/YT-tools
 $ cd YT-tools
 $ sh YT-tools.sh
 ```
-<br>
-<img src="https://ibb.co/M8FSKkr">
+
+<a href="https://ibb.co/M8FSKkr"><img src="https://i.ibb.co/8z1sGgq/Screenshot-2019-09-22-19-10-19.png"
 
 # note
 ```
