@@ -11,11 +11,15 @@ $ sh YT-tools.sh
 ```
 
 # note
-$ jangan pernah menjual belikan script
+```
+jangan pernah menjual belikan script
+```
 
 ## contact
-* .[instagram].(https://instagram.com/xlanz_maulana)
+* [Instagram](https://www.instagram.com/aditiastrom)
 
 ### subscribe channel 
 $ xatoshi lanzz
-* .[KLIK DISINI].(https://m.youtube.com/channel/UCSbcN5mn7yzxe_MXVF_Z6Fw)
+* [KLIK](https://m.youtube.com/channel/UCSbcN5mn7yzxe_MXVF_Z6Fw)
+
+
